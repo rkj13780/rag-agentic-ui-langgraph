@@ -1,0 +1,35 @@
+Hackathon reference links:
+https://arxiv.org/html/2403.13313v1
+https://arxiv.org/pdf/2403.13313v1
+Sign up now! 👉 https://bit.ly/435PY7w
+
+https://cyberiada.github.io/Hippocrates/
+
+crew ai:mhttps://github.com/crewAIInc/crewAI
+
+Register here - https://forms.gle/TfqGmCZ2sik1VYL99
+
+
+https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI
+
+
+promt to code sample https://platform.openai.com/docs/assistants/tools/code-interpreter
+
+https://platform.openai.com/docs/assistants/tools
+
+
+
+--------------
+
+ local to folder: 
+  git config user.name "Rakesh Kumar"
+  git config user.email "rakeshonrediff@gmail.com"
+git config commit.gpgsign false
+-------------
+echo "# meetup-devon-29-03-25" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rkj13780/meetup-devon-29-03-25.git
+git push -u origin main
